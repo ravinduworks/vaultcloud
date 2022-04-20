@@ -82,7 +82,7 @@ Vault is deployed according to the best production hardening practices. With a f
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? tweet at @raviboodher
+Have a bug or a feature request? please leave a comment here - https://bit.ly/3vvygYW
 
 ## Documentation
 
